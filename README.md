@@ -1,2 +1,2 @@
 # Company-Status-Analysis
-Gain insights about the company, its status and employees performance 
+Gain insights about the company, Department status, and employees' performance 
